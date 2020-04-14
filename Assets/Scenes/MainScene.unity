@@ -5087,6 +5087,7 @@ MonoBehaviour:
   fadeDuration: 1
   displayImageDuration: 1
   player: {fileID: 1931671515}
+  guidance: {fileID: 1935713448}
   exitBackgroundImageCanvasGroup: {fileID: 363078197}
   exitAudio: {fileID: 767192256}
   caughtBackgroundImageCanvasGroup: {fileID: 499645124}
