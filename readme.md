@@ -18,7 +18,7 @@ John Lemon's Haunted Jaunt is a Unity tutorial project that helps Unity user's t
 
 ## Dot Product
 
-In this project, we use a simple dot product calculation to determine how far the player is from the exit. This is done within the Update() loop. The distance is displayed in the top left of the Player's User Interface during gameplay. 
+In this project, we use a simple dot product calculation to determine how many degrees the character's look is from the exit. This is done within the Update() loop of Guidance.cs (coded by Thomas). The distance is displayed in the top left of the Player's User Interface during gameplay. 
 
 ## Linear Interpolation
 
