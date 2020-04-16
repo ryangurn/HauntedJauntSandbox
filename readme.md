@@ -24,13 +24,13 @@ In this project, we use a simple dot product calculation to determine how many d
 
 In this game, the user has a temperature displayed in the top left corner of their screen. This temperature will change based upon the direction that the player's character model is looking. When the player is looking towards the exit, the temperature is displayed as "Hot". If the player is looking near the exit, the temperature is displayed as "Warmer." Otherwise, the temperature will be "Cold."
 
-Linear interpolation with the Color.Lerp function is used to change the color of the text that is displayed to correlate with the current temperature.
+Linear interpolation with the Color.Lerp function is used to change the color of the text that is displayed to correlate with the current temperature. This expansion of Guidance.cs functionality was coded by Ryan.
 
 *NOTE: The dot product and linear interpolation functionality can be found in the Guidance.cs script under "..\HauntedJauntSandbox\Assets\Scripts\Guidance.cs"*
 
 ## Additional Particle Effects
 
-A spooky particle effect was added to the Ghost prefab, which gives them a more ethereal appearance.
+A spooky particle effect was added to the Ghost prefab by Sam, which gives them a more ethereal appearance.
 
 ## Running The Game
 
